@@ -1,5 +1,7 @@
 # ImagineRegconition
-My free time project \n
+My free time project 
+
+
 This project is a comprehensive exploration of Computer Vision fundamentals using PyTorch. The goal is to build, train, and evaluate multiple deep learning architectures to classify images from the FashionMNIST dataset.
 
 The project follows a structured progression from basic linear models to a robust Convolutional Neural Network (CNN), emphasizing modular code design and performance tracking.
